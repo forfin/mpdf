@@ -211,6 +211,13 @@ $this->fontdata = array(
 		'BI' => "Garuda-BoldOblique.ttf",
 		'useOTL' => 0xFF,
 		),
+	"thsarabunnew" => array(
+		'R' => "THSarabunNew.ttf",
+		'B' => "THSarabunNew-Bold.ttf",
+		'I' => "THSarabunNew-Italic.ttf",
+		'BI' => "THSarabunNew-BoldItalic.ttf",
+		'useOTL' => 0xFF,
+		),
 	"khmeros" => array(	/* Khmer */
 		'R' => "KhmerOS.ttf",
 		'useOTL' => 0xFF,
